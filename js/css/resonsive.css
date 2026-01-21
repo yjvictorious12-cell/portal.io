@@ -1,0 +1,385 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+/* the nav sec */
+main {
+  margin: 0 1rem;
+margin-top: 2rem;
+  box-shadow: 0 4px 12px rgba(26, 27, 136, 0.2);
+  overflow: hidden;
+  
+}
+header{
+    width: 100%;
+    display: flex;
+    background-color: rgb(26, 27, 136);
+     border-radius: 7px ;
+     border-bottom-left-radius: 0 !important;
+     border-bottom-right-radius: 0 !important;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul{
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 0.6rem;
+    font-weight: 100;
+    color: #fff;
+}
+header nav{
+    padding: 0.3rem;
+    
+
+}
+
+#but{
+    margin-left: 0.4rem;
+}
+.hand{
+    margin-left: 0.1rem
+}
+
+.toe{
+   margin-left: 60rem; 
+}
+#leg{
+    margin-right: 5px;
+}
+
+#team{
+    background-color: #fff;
+    color: rgb(26, 27, 136) ;
+    padding: 0.2rem;
+    border-radius: 50px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+/* end of the nav sec */
+
+/* end of body sec */
+.body{
+   display: flex ; 
+   align-items: stretch;
+   justify-content: space-between;
+}
+
+.ear a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 16px;
+  padding: 12px 15px;
+  color: #333;
+  text-decoration: none;
+  border-radius: 6px;
+  transition: 0.3s ease;
+}
+
+.ear a:hover {
+  background: #f2f2f2;
+  color: #000;
+}
+
+.ear a i {
+  font-size: 18px;
+  color: rgb(26, 27, 136);
+}
+
+
+
+#part9 {
+    display: block;
+    padding: 0.7%;
+    margin-bottom: 1rem;
+}
+
+.part2{
+flex: 3.5;
+    padding: 1rem;
+border: 1px solid rgba(26, 27, 136, 0.2) ;
+    border-top: 0;
+    border-bottom: 0;
+    border-right: 0;
+
+    
+    
+}
+
+.join{
+    font-size: 13px;
+    font-weight: 300;
+    
+}
+
+.intro{
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(26, 27, 136, 0.2);
+    border-radius: 4px;
+    padding: 0.5rem;
+    margin-top: 8px;
+    
+}
+.intro h4{
+    font-size: 17px;
+    font-weight: 200;
+    margin-left: 4px;
+}
+.intro p{
+    padding: 0.3rem;
+}
+
+.dut{
+    margin-top: 3px;
+   
+}
+
+#vet  {
+    background-color: #fff;
+    border: 1px solid rgba(26, 27, 136, 0.2);
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgb(26, 27, 136);
+    margin-left: 53rem ;
+}
+
+
+
+#pdi{
+    margin-left: 30rem;
+    margin: 4px;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+a #pdi{
+    display: inline-block;
+    margin-left: 66.9% !important;
+    color: #000;
+}
+
+a #vom{
+    margin-left: 2% !important;
+}
+#vom{
+   background-color: #fff;
+    border: 1px solid rgba(26, 27, 136, 0.2);
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgba(26, 27, 136, 0.2);
+    margin: 4px; 
+      
+}
+#kin{
+    margin-left: 20rem!important;
+    font-size: smaller;
+    font-weight: 100;
+}
+
+a #kin {
+    margin-left: 65% !important;
+    color: black;
+}
+#vex{
+     background-color: #fff;
+    border: 1px solid rgba(26, 27, 136, 0.2) ;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgba(26, 27, 136, 0.2);
+    margin-left: 30px;
+    
+}
+a #vex{
+    margin-left: 2% !important;
+}
+
+.mat{
+    margin-top: 10px;
+    font-size: 13px;
+    font-weight: 300;
+}
+
+
+
+.lec3{
+    margin-top: 10px;
+    font-size: smaller;
+    font-weight: 100;
+}
+
+#pdf{
+
+    margin: 4px;
+    font-weight: 100;
+    font-size: smaller;
+}
+
+#pdo{
+    margin: 2px;
+    font-size: smaller;
+    font-weight: 100;
+}
+#pdo{
+    margin-left: 40rem;
+    color: rgb(26, 27, 136);
+}
+
+#vec{
+    margin-left: 1rem;
+}
+#vec {
+ background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 4px;
+    font-size: smaller;
+    font-weight: 100;
+    color: rgba(173, 216, 230, 0.6); 
+    margin: 2px;
+     
+}
+.tion{
+  padding: 0.1rem !important;
+    margin-top: 5px !important;   
+}
+
+/* end of body sec */
+/* animination section */
+.dent{ 
+    color: rgba(173, 216, 230, 0.3);
+    font-size: 40px;
+    font-weight: bold;
+    position: absolute;
+    animation: bigFloat 0.8s linear infinite;
+    
+    
+}
+
+@keyframes bigFloat{
+    0%{
+        transform: translate(0px, 0px);
+    }
+    25%{
+        transform: translate(15px, -80px);
+    }
+    50%{
+        transform: translate(0px, -900px);
+    }
+    75%{
+        transform: translate(-15px, -60px);
+    }
+    100%{
+        transform: translate(0px, 0px);
+    }
+}
+   .dent1{ 
+    color: rgba(173, 216, 230, 0.3);
+    font-size: 40px;
+    font-weight: bold;
+    position: fixed;
+    animation: rotate 0.8s linear infinite;
+    margin-left: 10rem ;
+    
+    
+}
+
+@keyframes rotate{
+    0%{
+        transform: translate(0px, 0px);
+    }
+    25%{
+        transform: translate(-80px, 15px);
+    }
+    50%{
+        transform: translate(-900px, 0px);
+    }
+    75%{
+        transform: translate(-60px, -15px);
+    }
+    100%{
+        transform: translate(0px, 0px);
+    }
+} 
+
+/* end of animination sec */
+
+/* media query section */
+
+@media (max-width: 768px) {
+    .head{
+        margin: 0 !important;
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        
+    }
+    body{
+      margin: 12px !important;  
+    }
+
+       .dent1{ 
+    margin-left: 0rem !important; 
+}
+
+
+#leg{
+    margin-left: 6rem !important;
+}
+
+
+
+  .ear a span {
+    display: none;  
+  }
+
+  .ear a {
+    justify-content: center; 
+    font-size: 22px;          
+    padding: 12px;
+  }
+.ear .camera:hover ~ a span,
+.ear .camera:hover span {
+    display: inline;
+}
+  .ear a i {
+    font-size: 20px;
+  }
+
+
+#pdo{
+    margin-left: 0rem !important;
+    color: #000;
+}
+.dent{
+    margin-left: 0 !important;
+}
+
+#vet  {
+
+    margin-left: 0rem !important ;
+}
+
+.part8{
+    justify-content: center !important;
+    align-items: center !important;
+    text-align:  center !important;
+    margin: auto;
+}
+
+
+}
